@@ -1,0 +1,27 @@
+{
+  "name": "garagebuddy_frontend",
+  "version": "1.0.0",
+  "description": "\"Frontend of the GarageBuddy project.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "postcss css/tailwind.css -o css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsgitcracking/garagebuddy_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsgitcracking/garagebuddy_frontend/issues"
+  },
+  "homepage": "https://github.com/letsgitcracking/garagebuddy_frontend#readme",
+  "devDependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "autoprefixer": "^9.7.1",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.3"
+  },
+  "dependencies": {}
+}
