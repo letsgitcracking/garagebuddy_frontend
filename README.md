@@ -1,1 +1,3 @@
-"Frontend of the GarageBuddy project." 
+Frontend design of Garage Buddy project.
+
+Live version: https://letsgitcracking.github.io/garagebuddy_frontend/
